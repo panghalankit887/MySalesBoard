@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Customer_Name,Region,Product_Name,Category,Quantity,Sales_Amount,Profit,Discount,Channel
+ORD0001,2025-05-05,Vikram Singh,South,Pineapple Cake,Cakes,5,3830,927.26,10,Online
+ORD0002,2025-03-08,Vikram Singh,East,Pineapple Cake,Cakes,2,868,174.21,10,Online
+ORD0003,2025-01-11,Amit Sharma,East,Red Velvet,Cakes,3,3030,1018.21,5,Retail
+ORD0004,2025-05-26,Sneha Gupta,East,Black Forest,Cakes,3,2613,688.96,5,Online
+ORD0005,2025-05-16,Amit Sharma,South,Vanilla Cake,Cakes,2,1894,453.4,15,Distributor
+ORD0006,2025-08-13,Ravi Kumar,West,Pineapple Cake,Cakes,4,3956,910.93,15,Retail
+ORD0007,2025-01-05,Priya Mehta,North,Black Forest,Cakes,5,4430,1229.48,5,Retail
+ORD0008,2025-06-23,Sneha Gupta,West,Chocolate Cake,Cakes,5,2395,760.48,0,Distributor
+ORD0009,2025-09-08,Ravi Kumar,East,Black Forest,Cakes,3,2598,871.76,15,Distributor
+ORD0010,2025-03-11,Suresh Iyer,South,Red Velvet,Cakes,5,2675,600.03,0,Retail
+ORD0011,2025-05-02,Sneha Gupta,Central,Strawberry Cake,Cakes,5,5115,941.53,5,Distributor
+ORD0012,2025-03-31,Ankita Das,North,Cheesecake,Cakes,2,1934,310.53,5,Retail
+ORD0013,2025-04-19,Ankita Das,Central,Chocolate Cake,Cakes,2,1332,264.58,0,Online
+ORD0014,2025-09-18,Ravi Kumar,North,Vanilla Cake,Cakes,1,321,74.11,15,Online
+ORD0015,2025-05-09,Ankita Das,North,Strawberry Cake,Cakes,4,1932,356.41,15,Distributor
+ORD0016,2025-09-03,Suresh Iyer,West,Black Forest,Cakes,1,421,75.6,15,Retail
+ORD0017,2025-09-17,Roshni Patel,East,Chocolate Cake,Cakes,2,1316,232.16,5,Distributor
+ORD0018,2025-01-30,Suresh Iyer,West,Pineapple Cake,Cakes,1,1034,162.44,0,Online
+ORD0019,2025-04-21,Amit Sharma,Central,Strawberry Cake,Cakes,3,3528,807.81,0,Retail
+ORD0020,2025-09-14,Priya Mehta,Central,Pineapple Cake,Cakes,3,1305,327.4,10,Retail
+ORD0021,2025-04-05,Priya Mehta,South,Pineapple Cake,Cakes,3,2238,411.32,0,Distributor
+ORD0022,2025-03-25,Sneha Gupta,East,Chocolate Cake,Cakes,5,5235,1262.38,5,Distributor
+ORD0023,2025-06-22,Ankita Das,East,Red Velvet,Cakes,4,3956,1067.05,10,Distributor
+ORD0024,2025-09-17,Amit Sharma,North,Chocolate Cake,Cakes,5,2425,752.03,5,Distributor
+ORD0025,2025-09-01,Ravi Kumar,North,Pineapple Cake,Cakes,4,3356,783.29,15,Retail
+ORD0026,2025-07-19,Roshni Patel,East,Cheesecake,Cakes,5,2320,545.45,0,Distributor
+ORD0027,2025-08-16,Priya Mehta,Central,Black Forest,Cakes,3,1512,338.53,10,Distributor
+ORD0028,2025-04-22,Amit Sharma,South,Red Velvet,Cakes,4,2296,651.7,0,Distributor
+ORD0029,2025-08-02,Suresh Iyer,East,Black Forest,Cakes,3,1893,296.66,0,Retail
+ORD0030,2025-04-05,Ravi Kumar,West,Strawberry Cake,Cakes,4,4524,946.54,0,Retail
+ORD0031,2025-06-11,Sneha Gupta,East,Chocolate Cake,Cakes,2,1882,399.46,10,Distributor
+ORD0032,2025-06-11,Roshni Patel,North,Pineapple Cake,Cakes,1,966,242.82,15,Retail
+ORD0033,2025-08-20,Ankita Das,East,Strawberry Cake,Cakes,4,2772,798.23,0,Online
+ORD0034,2025-01-19,Suresh Iyer,West,Black Forest,Cakes,1,772,141.49,15,Retail
+ORD0035,2025-07-27,Vikram Singh,East,Pineapple Cake,Cakes,2,778,230.03,15,Distributor
+ORD0036,2025-06-13,Amit Sharma,South,Strawberry Cake,Cakes,1,894,195.76,15,Distributor
+ORD0037,2025-09-10,Ravi Kumar,East,Red Velvet,Cakes,5,5600,1413.81,10,Online
+ORD0038,2025-08-01,Suresh Iyer,East,Cheesecake,Cakes,2,606,158.85,5,Online
+ORD0039,2025-10-02,Roshni Patel,East,Strawberry Cake,Cakes,1,1149,384.39,0,Retail
+ORD0040,2025-02-20,Amit Sharma,North,Vanilla Cake,Cakes,2,1086,329.43,0,Online
+ORD0041,2025-04-18,Amit Sharma,West,Pineapple Cake,Cakes,4,3436,994.63,0,Retail
+ORD0042,2025-01-01,Ankita Das,North,Black Forest,Cakes,2,1698,376.07,0,Retail
+ORD0043,2025-05-01,Suresh Iyer,Central,Strawberry Cake,Cakes,2,2336,686.91,15,Retail
+ORD0044,2025-07-01,Roshni Patel,South,Pineapple Cake,Cakes,3,3153,723.8,0,Distributor
+ORD0045,2025-04-09,Suresh Iyer,Central,Strawberry Cake,Cakes,1,429,112.21,10,Online
+ORD0046,2025-07-02,Suresh Iyer,Central,Chocolate Cake,Cakes,3,1662,558.01,15,Distributor
+ORD0047,2025-05-23,Suresh Iyer,North,Vanilla Cake,Cakes,3,2172,587.09,5,Retail
+ORD0048,2025-01-29,Roshni Patel,Central,Red Velvet,Cakes,4,3960,1314.3,0,Online
+ORD0049,2025-05-15,Ravi Kumar,South,Black Forest,Cakes,3,1584,348.48,10,Distributor
+ORD0050,2025-03-13,Suresh Iyer,North,Black Forest,Cakes,4,2384,553.69,10,Retail
+ORD0051,2025-08-30,Amit Sharma,North,Strawberry Cake,Cakes,2,1320,207.84,5,Retail
+ORD0052,2025-10-04,Ravi Kumar,West,Black Forest,Cakes,3,1236,362.08,10,Retail
+ORD0053,2025-08-25,Ankita Das,North,Cheesecake,Cakes,4,2456,619.49,15,Distributor
+ORD0054,2025-02-24,Vikram Singh,Central,Cheesecake,Cakes,5,4910,880.67,10,Retail
+ORD0055,2025-06-29,Vikram Singh,South,Vanilla Cake,Cakes,3,1299,364.38,15,Online
+ORD0056,2025-08-04,Ravi Kumar,South,Pineapple Cake,Cakes,5,2615,895.02,0,Retail
+ORD0057,2025-07-02,Ravi Kumar,South,Pineapple Cake,Cakes,2,1940,503.55,10,Retail
+ORD0058,2025-07-21,Suresh Iyer,North,Black Forest,Cakes,4,1308,305.49,5,Online
+ORD0059,2025-09-24,Sneha Gupta,Central,Strawberry Cake,Cakes,2,2266,735.59,5,Retail
+ORD0060,2025-06-26,Vikram Singh,West,Pineapple Cake,Cakes,4,4044,1257.08,0,Distributor
+ORD0061,2025-01-08,Vikram Singh,South,Cheesecake,Cakes,2,916,215.79,10,Online
+ORD0062,2025-07-14,Suresh Iyer,Central,Pineapple Cake,Cakes,1,876,205.67,0,Distributor
+ORD0063,2025-05-15,Ravi Kumar,South,Red Velvet,Cakes,2,1710,386.51,0,Distributor
+ORD0064,2025-02-27,Ankita Das,North,Red Velvet,Cakes,1,1078,226.09,10,Distributor
+ORD0065,2025-09-14,Vikram Singh,East,Vanilla Cake,Cakes,4,2996,696.66,0,Retail
+ORD0066,2025-06-10,Suresh Iyer,North,Strawberry Cake,Cakes,1,389,66.53,10,Distributor
+ORD0067,2025-03-20,Sneha Gupta,Central,Pineapple Cake,Cakes,3,2424,437.5,15,Retail
+ORD0068,2025-05-10,Ravi Kumar,North,Strawberry Cake,Cakes,4,3204,747.21,15,Retail
+ORD0069,2025-05-24,Ankita Das,Central,Red Velvet,Cakes,5,4760,1069.02,0,Online
+ORD0070,2025-02-25,Suresh Iyer,West,Strawberry Cake,Cakes,3,1482,247.39,5,Online
+ORD0071,2025-03-31,Amit Sharma,East,Vanilla Cake,Cakes,5,3835,1067.47,10,Retail
+ORD0072,2025-08-17,Ravi Kumar,West,Vanilla Cake,Cakes,2,2128,469.18,15,Online
+ORD0073,2025-05-05,Sneha Gupta,Central,Chocolate Cake,Cakes,5,5370,1058.16,5,Online
+ORD0074,2025-08-13,Roshni Patel,North,Pineapple Cake,Cakes,4,4340,686.49,15,Retail
+ORD0075,2025-06-15,Priya Mehta,North,Black Forest,Cakes,5,5770,1456.15,0,Retail
+ORD0076,2025-03-08,Roshni Patel,West,Red Velvet,Cakes,3,2244,339.39,0,Retail
+ORD0077,2025-05-14,Ankita Das,South,Strawberry Cake,Cakes,5,4385,1358.37,5,Retail
+ORD0078,2025-06-30,Amit Sharma,North,Chocolate Cake,Cakes,1,453,80.45,0,Distributor
+ORD0079,2025-06-15,Vikram Singh,West,Vanilla Cake,Cakes,4,3012,810.2,15,Distributor
+ORD0080,2025-06-21,Suresh Iyer,Central,Pineapple Cake,Cakes,4,1388,456.34,0,Distributor
+ORD0081,2025-09-30,Ravi Kumar,Central,Chocolate Cake,Cakes,4,1620,522.56,5,Retail
+ORD0082,2025-04-23,Priya Mehta,Central,Chocolate Cake,Cakes,5,5485,1900.13,5,Distributor
+ORD0083,2025-06-08,Ravi Kumar,South,Chocolate Cake,Cakes,1,920,275.46,0,Online
+ORD0084,2025-10-07,Roshni Patel,West,Strawberry Cake,Cakes,5,5375,918.25,10,Distributor
+ORD0085,2025-03-14,Sneha Gupta,West,Pineapple Cake,Cakes,3,1356,374.15,10,Online
+ORD0086,2025-02-13,Vikram Singh,South,Pineapple Cake,Cakes,1,495,127.91,15,Distributor
+ORD0087,2025-07-07,Suresh Iyer,South,Chocolate Cake,Cakes,5,2380,525.5,10,Distributor
+ORD0088,2025-09-17,Vikram Singh,South,Strawberry Cake,Cakes,3,1803,602.25,0,Online
+ORD0089,2025-02-02,Vikram Singh,South,Strawberry Cake,Cakes,5,3970,1354.77,0,Online
+ORD0090,2025-04-03,Roshni Patel,East,Cheesecake,Cakes,1,314,58.81,15,Retail
+ORD0091,2025-03-29,Ankita Das,East,Chocolate Cake,Cakes,3,1560,348.56,5,Online
+ORD0092,2025-09-02,Vikram Singh,North,Chocolate Cake,Cakes,2,2166,497.14,10,Distributor
+ORD0093,2025-03-02,Ravi Kumar,North,Cheesecake,Cakes,1,1081,248.89,5,Retail
+ORD0094,2025-04-03,Roshni Patel,North,Red Velvet,Cakes,2,2390,407.86,0,Distributor
+ORD0095,2025-04-02,Roshni Patel,North,Chocolate Cake,Cakes,1,1059,336.77,0,Distributor
+ORD0096,2025-09-11,Ravi Kumar,East,Pineapple Cake,Cakes,2,1920,623.88,15,Retail
+ORD0097,2025-09-24,Amit Sharma,South,Vanilla Cake,Cakes,3,2454,523.4,5,Retail
+ORD0098,2025-06-26,Priya Mehta,North,Vanilla Cake,Cakes,3,2562,770.76,5,Online
+ORD0099,2025-05-05,Sneha Gupta,Central,Cheesecake,Cakes,4,2824,533.74,10,Retail
+ORD0100,2025-07-04,Priya Mehta,South,Strawberry Cake,Cakes,4,4448,1206.49,10,Retail
+ORD0101,2025-06-29,Amit Sharma,West,Pineapple Cake,Cakes,4,1764,290.88,0,Distributor
+ORD0102,2025-02-25,Ankita Das,North,Red Velvet,Cakes,2,1560,407.53,0,Online
+ORD0103,2025-02-19,Priya Mehta,West,Pineapple Cake,Cakes,4,3340,957.21,15,Distributor
+ORD0104,2025-06-22,Priya Mehta,East,Pineapple Cake,Cakes,2,2134,731.93,0,Distributor
+ORD0105,2025-05-25,Sneha Gupta,Central,Vanilla Cake,Cakes,5,4110,947.4,5,Online
+ORD0106,2025-04-22,Vikram Singh,East,Strawberry Cake,Cakes,4,1956,372.62,15,Retail
+ORD0107,2025-01-27,Suresh Iyer,West,Cheesecake,Cakes,2,1894,342.81,0,Distributor
+ORD0108,2025-03-23,Roshni Patel,South,Strawberry Cake,Cakes,3,3414,970.87,0,Distributor
+ORD0109,2025-08-20,Ravi Kumar,West,Red Velvet,Cakes,5,5055,1251.05,0,Distributor
+ORD0110,2025-03-16,Suresh Iyer,West,Strawberry Cake,Cakes,2,1462,359.07,15,Retail
+ORD0111,2025-09-07,Amit Sharma,North,Strawberry Cake,Cakes,4,3736,701.92,15,Distributor
+ORD0112,2025-09-19,Ankita Das,Central,Vanilla Cake,Cakes,5,5145,1702.06,5,Online
+ORD0113,2025-03-12,Suresh Iyer,East,Chocolate Cake,Cakes,1,1080,183.21,15,Online
+ORD0114,2025-02-24,Vikram Singh,North,Vanilla Cake,Cakes,4,2848,649.54,15,Distributor
+ORD0115,2025-04-02,Ankita Das,North,Chocolate Cake,Cakes,2,1582,459.35,15,Retail
+ORD0116,2025-02-08,Vikram Singh,East,Black Forest,Cakes,4,4800,1243.89,15,Retail
+ORD0117,2025-06-22,Roshni Patel,North,Strawberry Cake,Cakes,2,1036,336.45,5,Online
+ORD0118,2025-07-02,Suresh Iyer,South,Chocolate Cake,Cakes,2,2308,378.4,10,Online
+ORD0119,2025-07-15,Ankita Das,Central,Strawberry Cake,Cakes,2,2204,359.49,0,Retail
+ORD0120,2025-08-24,Vikram Singh,West,Red Velvet,Cakes,4,1628,472.9,5,Retail
+ORD0121,2025-02-26,Ankita Das,West,Red Velvet,Cakes,1,762,172.12,10,Distributor
+ORD0122,2025-06-26,Vikram Singh,West,Strawberry Cake,Cakes,4,2508,756.14,5,Retail
+ORD0123,2025-06-24,Roshni Patel,Central,Black Forest,Cakes,1,1138,312.1,5,Distributor
+ORD0124,2025-02-17,Ankita Das,West,Chocolate Cake,Cakes,3,1023,265.84,15,Distributor
+ORD0125,2025-09-12,Amit Sharma,North,Chocolate Cake,Cakes,1,708,191.94,0,Online
+ORD0126,2025-02-20,Ravi Kumar,Central,Vanilla Cake,Cakes,5,2545,581.56,0,Online
+ORD0127,2025-09-03,Vikram Singh,South,Pineapple Cake,Cakes,4,4240,959.08,0,Retail
+ORD0128,2025-01-25,Suresh Iyer,South,Vanilla Cake,Cakes,5,4680,921.24,0,Retail
+ORD0129,2025-04-01,Suresh Iyer,South,Strawberry Cake,Cakes,1,482,119.38,15,Distributor
+ORD0130,2025-06-23,Ankita Das,East,Pineapple Cake,Cakes,1,526,183.27,10,Retail
+ORD0131,2025-09-22,Vikram Singh,West,Cheesecake,Cakes,1,885,151.15,15,Distributor
+ORD0132,2025-09-28,Roshni Patel,North,Vanilla Cake,Cakes,2,1068,172.56,0,Distributor
+ORD0133,2025-06-05,Ravi Kumar,West,Red Velvet,Cakes,5,4560,1338.35,0,Distributor
+ORD0134,2025-02-24,Amit Sharma,North,Strawberry Cake,Cakes,2,1686,271.42,10,Retail
+ORD0135,2025-05-12,Priya Mehta,West,Strawberry Cake,Cakes,5,1750,460.54,0,Online
+ORD0136,2025-08-28,Ankita Das,Central,Red Velvet,Cakes,1,568,118.57,10,Distributor
+ORD0137,2025-09-11,Amit Sharma,North,Vanilla Cake,Cakes,3,2325,634.08,15,Distributor
+ORD0138,2025-01-05,Roshni Patel,North,Red Velvet,Cakes,4,2964,816.61,0,Online
+ORD0139,2025-01-02,Priya Mehta,Central,Strawberry Cake,Cakes,1,627,136.19,0,Retail
+ORD0140,2025-07-12,Vikram Singh,North,Red Velvet,Cakes,3,1014,350.29,5,Retail
+ORD0141,2025-08-01,Priya Mehta,South,Black Forest,Cakes,1,1042,273.87,5,Online
+ORD0142,2025-03-13,Priya Mehta,West,Strawberry Cake,Cakes,2,1520,332.61,5,Distributor
+ORD0143,2025-10-02,Amit Sharma,South,Black Forest,Cakes,5,2610,773.85,5,Retail
+ORD0144,2025-09-22,Roshni Patel,North,Cheesecake,Cakes,1,992,262.78,0,Online
+ORD0145,2025-10-01,Priya Mehta,South,Strawberry Cake,Cakes,4,1384,298.22,10,Retail
+ORD0146,2025-03-25,Roshni Patel,Central,Red Velvet,Cakes,1,643,112.69,15,Online
+ORD0147,2025-06-04,Sneha Gupta,Central,Cheesecake,Cakes,5,1830,347.39,15,Retail
+ORD0148,2025-08-06,Sneha Gupta,South,Cheesecake,Cakes,4,3732,614.79,10,Distributor
+ORD0149,2025-10-07,Sneha Gupta,West,Strawberry Cake,Cakes,3,1224,354.5,0,Online
+ORD0150,2025-10-03,Suresh Iyer,North,Cheesecake,Cakes,5,3195,1024.43,10,Distributor

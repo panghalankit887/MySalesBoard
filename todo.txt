@@ -1,0 +1,63 @@
+🗂️ Dashboard Pages (based on your sidebar)
+1️⃣ Dashboard Page
+
+A summary view with KPIs and quick stats:
+
+Total Sales                   |Done
+
+Total Profit                  |Done
+
+Total Orders                  |Done
+
+Average Discount              |Done
+
+📊 Include quick charts:
+
+Sales by product categories     |Done
+
+Sales over time (line/area chart)    same as revenew trend   |Done
+
+Sales by Region (bar)    same      |Done
+
+Revenue by Customer Segment  pie chart of differnt flabour of cake |Done
+
+
+Sales by Channel (pie)   online ofline etc....
+
+2️⃣ Sales Analytics Page
+
+Detailed analysis and filters:
+
+Select date range
+
+View top-selling products
+
+Compare monthly trends
+
+Profit vs Sales scatter/line plot
+
+
+
+3️⃣ Products Page
+
+Insights on product performance:
+
+Average sales & profit per product
+
+Quantity sold per product (bar)
+
+Product contribution to total sales (pie)     
+
+4️⃣ Customers Page
+
+Customer-based metrics:
+
+Top 5 Customers by total purchase
+
+Region-wise customer count
+
+Channel used by customers
+
+5️⃣ Settings Page
+
+For now, just placeholders like:
